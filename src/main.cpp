@@ -36,4 +36,5 @@ void loop() {
     } else {
         Serial.println("No Pressure");
     }
+    delay(500);
 }
